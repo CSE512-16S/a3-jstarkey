@@ -3,6 +3,9 @@ An interactive visualization of American gun trends
 
 #An Interactive Exploration Into American Gun Data
 ![alt tag](https://raw.githubusercontent.com/CSE512-16S/a3-jstarkey/master/storyboard-project/Screen%20Shot%202016-05-09%20at%2011.48.31%20PM.png)
+![alt tag](https://raw.githubusercontent.com/CSE512-16S/a3-jstarkey/master/storyboard-project/Screen%20Shot%202016-05-09%20at%2011.47.13%20PM.png)
+![alt tag](https://raw.githubusercontent.com/CSE512-16S/a3-jstarkey/master/storyboard-project/Screen%20Shot%202016-05-09%20at%2011.47.26%20PM.png)
+
 
 Interactivity Instructions-
 Click on state to zoom in on its counties. 
