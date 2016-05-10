@@ -25,18 +25,7 @@ body {
 }
 .policecounties {
   display:none;
-}
-.tooltip {                                                        
-    background: #eee;                                              
-    box-shadow: 0 0 5px #999999;                                    
-    color: #333;                                                   
-    display: none;                                                 
-    font-size: 12px;                                               
-    left: 130px;                                                    
-    padding: 10px;                                                                                           
-    text-align: center;                                                                                               
-    z-index: 10;                                                    
-}   
+}  
 #state-borders {
   fill: none;
   stroke: #fff;
@@ -50,19 +39,13 @@ body {
   stroke: #fff;
   stroke-width: .5px;
 }
-.tooltip { 
-    position: absolute;     
-    text-align: center;     
-    width: 60px;          
-    height: 28px;         
-    padding: 2px;       
-    font: 12px sans-serif;    
-    background: lightsteelblue; 
-    border: 0px;    
-    border-radius: 8px;     
-    pointer-events: none;     
-}
-
+.tooltip {                                                        
+    background-color: lightgray;                                              
+    color: black;                                                   
+    display: none;                                                 
+    padding: 10px;                                                                                           
+    text-align: center;                                                                                               
+}  
 #map,
 #mapType {
     float: left;
@@ -78,6 +61,7 @@ body {
 }
 #map {
     text-align: center;
+    margin-right: 2em;
 }
 path {
     stroke-width: 1px;
@@ -101,11 +85,11 @@ li {
     padding: 8px 0 8px 16px;
     text-decoration: none;
 }
-li.active {
-    background-color: darkgray;
+#mapType li:hover {
+    background-color: lightgray;
     color: white;
 }
-li:hover:not(.active) {
-    background-color: lightgray;
+.active {
+    background-color: darkgray;
     color: white;
 }
