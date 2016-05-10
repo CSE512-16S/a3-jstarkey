@@ -26,12 +26,12 @@ Coding: Leanred d3 as I went along with my constant debugging. Many late nights.
   Plotting mass shooting incidents and gun related fatalities (5 hrs):
   Choropleth map of police shooting incidents (8 hrs):
   Tooltip showing respected visulizaiotn info (4 hrs): Combined fatality and name information for respected state/county or spree incident/victim into a tooltip that activated on hover event.
-  CSS/HTML Styling and Layout (3 hrs): Styling and layout to make a clear and concise user interface. Interactions are minimal, what is importnat is interpreting the data.
+  CSS/HTML Styling and Layout (3 hrs): Styling and layout to make a clear and concise user interface. Interactions are minimal, what is important is expressing the data concisely and easily for easy interpretation
 
 ReadMe (4 hrs): I wrote alot. I had zero experience with Github previously. 
 
 # Running Instructions 
-You can find our interactive visualization by clicking the following this link: 
+You can find our interactive visualization by clicking the following this link: https://cse512-16s.github.io/a3-jstarkey/
 Or download the source files:
 cd to the project directory
 type in python -m SimpleHTTPServer 8888 & in your terminal
@@ -41,6 +41,8 @@ open your browser and type in http://localhost:8888/index.html
 ![alt tag](https://raw.githubusercontent.com/CSE512-16S/a3-jstarkey/master/storyboard-project/IMG_5536.JPG.jpeg)
 ![alt tag](https://raw.githubusercontent.com/CSE512-16S/a3-jstarkey/master/storyboard-project/IMG_5537.JPG.jpeg)
 # Changes between Storyboard and the Final Implementation
-The only modificaiton I made was to brin gthe horizontal menu bar to the right of the map vertically. I want to include more map options as I conglomerate more data. As you can see, I wasnt able to implement the summary statistics container that would display after you zoom into a state. I would like this to show longitudinal data of each respected map type. For example, I have data from the NICS of firearm background checks that can be used to correlate firearm sales with backgorund checks dating back to 2000.
+The only modificaiton I made was to bring the horizontal menu bar to the right of the map vertically. I want to include more map options as I conglomerate more data. As you can see, I wasnt able to implement the summary statistics container that would display after you zoom into a state. I would like this to show longitudinal data of each respected map type. For example, I have data from the NICS of firearm background checks that can be used to correlate firearm sales with backgorund checks dating back to 2000.
 I also want to introduce my data using a timeline slider and animation. For example, my data of mass killing sprees goes back to 1982, it would be nice to show this data as a filter of the slider positions set for the year of the data. This could reveal an increase in frequency of killing sprees as the time progresses. 
+
+
 
