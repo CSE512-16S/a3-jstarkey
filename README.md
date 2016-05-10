@@ -1,6 +1,11 @@
 # a3-jstarkey
 An interactive visualization of American gun trends
 
+#An Interactive Exploration Into American Gun Data
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+Interactivity Instructions-
+
 # Breakdown of Development
 Data Collection (10 hrs): Pulled and combined data from various sources including: 
 http://www.fatalencounters.org/ - http://www.slate.com/articles/news_and_politics/crime/2012/12/gun_death_tally_every_american_gun_death_since_newtown_sandy_hook_shooting.html -
@@ -15,8 +20,10 @@ Coding:
   Plotting mass shooting incidents and gun related fatalities:
   Choropleth map of police shooting incidents:
   Tooltip showing respected visulizaiotn info:
+  
+# Storyboard 
 
-# Instructions 
+# Running Instructions 
 You can find our interactive visualization by clicking the following this link: 
 
 Or you can download our source file, steps:
