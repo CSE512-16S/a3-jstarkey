@@ -1,5 +1,5 @@
 # a3-jstarkey
-An interactive visualization of American gun trends
+An interactive visualization of American gun trends (turn off safe scripts)
 
 #An Interactive Exploration Into American Gun Data
 ![alt tag](https://raw.githubusercontent.com/CSE512-16S/a3-jstarkey/master/storyboard-project/Screen%20Shot%202016-05-09%20at%2011.48.31%20PM.png)
